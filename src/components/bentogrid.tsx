@@ -267,7 +267,7 @@ const BentoBox1 = () => {
             </div>
             <div className="text-left p-6 mt-4">
               <h1 className="text-white text-2xl font-bold mb-2">Incredible Growth</h1>
-              <p className="text-white/70 text-lg">Fly through your tasks with rapid-fire keyboard shortcuts for everything. Literally everything.</p>
+              <p className="text-white/70 text-lg">Fly through your tasks with rapid-fire keyboard shortcuts for everything.</p>
             </div>
           </div>
         </CardWithEffect>
@@ -277,7 +277,7 @@ const BentoBox1 = () => {
               <LogoBeam />
               <div className="text-left p-6">
                 <h1 className="text-white text-2xl font-bold mb-2">Multiple Technologies</h1>
-                <p className="text-white/70 text-lg">Fly through your tasks with rapid-fire keyboard shortcuts for everything. Literally everything.</p>
+                <p className="text-white/70 text-lg">Fly through your tasks with rapid-fire keyboard shortcuts for everything.</p>
               </div>
             </div>
           </CardWithEffect>
